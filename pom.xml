@@ -28,7 +28,7 @@
         <testSourceDirectory>src/test/kotlin</testSourceDirectory>
         <plugins>
             <plugin>
-                <groupId>org.jetbrains.kotlinx</groupId>
+                <groupId>org.jetbrains.kotlin</groupId>
                 <artifactId>kotlin-maven-plugin</artifactId>
                 <version>1.4.21</version>
                 <executions>
